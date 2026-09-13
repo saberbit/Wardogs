@@ -1,5 +1,4 @@
 # Wardogs: Helpers 
-# 
 # Artillery - Mortar Distance Calculator
 #
 #
